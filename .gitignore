@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.env
+
+# VS Code
+.vscode/
+env/
+
+# Colab + Model Artifacts
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dataset (optional if not uploading)
+Dataset xray/
