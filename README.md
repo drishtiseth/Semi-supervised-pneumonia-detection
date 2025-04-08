@@ -1,1 +1,2 @@
 "# Semi-supervised Pneumonia Detection" 
+This project explores a semi-supervised learning pipeline for detecting pneumonia from chest X-ray images. It combines **SimCLRv2 self-supervised pretraining** with **supervised fine-tuning** and **knowledge distillation**, using both labeled and unlabeled datasets.
